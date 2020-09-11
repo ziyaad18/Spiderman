@@ -7,3 +7,5 @@ num1=2
 num2=4
 answer=num1+num2
 print(answer)
+print(time to go home)
+print("home time")
